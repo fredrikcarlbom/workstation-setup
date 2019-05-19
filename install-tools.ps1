@@ -5,4 +5,5 @@ choco install git-fork -y
 choco install autohotkey -y
 choco install dropbox -y
 choco install totalcommander -y
-choco install vlc
+choco install vlc -y
+choco install skype -y
