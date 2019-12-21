@@ -3,6 +3,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 choco install 7zip -y
 choco install autohotkey -y
+choco install conemu -y
 choco install dropbox -y
 choco install notepadplusplus -y
 choco install totalcommander -y
